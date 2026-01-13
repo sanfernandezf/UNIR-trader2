@@ -79,7 +79,7 @@ En terminales separadas:
 docker-compose up -d
 ```
 
-La aplicación estará disponible en `http://localhost:3001`
+La aplicación estará disponible en `http://localhost:3010`
 
 ### Opción 3: Manual
 

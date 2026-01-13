@@ -76,13 +76,13 @@ npm install
 npm start
 ```
 
-El frontend estará disponible en: `http://localhost:3001`
+El frontend estará disponible en: `http://localhost:3010`
 
 ## Uso de la Aplicación
 
 ### Interfaz Web
 
-1. Abre tu navegador en `http://localhost:3001`
+1. Abre tu navegador en `http://localhost:3010`
 2. Haz clic en "Ejecutar Pipeline Completo" para ejecutar todo el proceso
 3. O ejecuta cada paso individualmente:
    - Paso 1: Descarga de datos de Binance

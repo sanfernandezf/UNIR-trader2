@@ -13,7 +13,7 @@ fi
 
 echo ""
 echo "✅ Frontend listo!"
-echo "🌐 Abriendo aplicación en http://localhost:3001"
+echo "🌐 Abriendo aplicación en http://localhost:3010"
 echo ""
 
 # Iniciar servidor de desarrollo
